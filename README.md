@@ -38,7 +38,7 @@ Ensure you have the following installed on your local machine:
 
 ### Running Locally
 
-To spin up the project in development mode:
+To spin up the project in development mode.....:
 ```bash
 npm run dev
 ```
