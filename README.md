@@ -77,7 +77,7 @@ quantumshift/
 
 ## 🤝 Contributing
 
-Contributions make the open-source community an amazing place. Any contributions you make are **greatly appreciated**.
+Contributions make the open-source community an amazing place . Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
