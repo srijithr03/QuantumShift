@@ -3,7 +3,7 @@
 [![License: MIT](https://shields.io)](https://opensource.org)
 [![Build Status](https://shields.io)]()
 
-> **quantumshift** is a high-performance, lightweight [insert tool type, e.g., API gateway / CLI utility / state manager] designed to smoothly transition data states with minimal latency.......
+> **quantumshift** is a high-performance, lightweight [insert tool type, e.g., API gateway / CLI utility / state manager] designed to smoothly transition data states with minimal latency.
 
 ---
 
